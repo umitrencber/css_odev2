@@ -1,0 +1,50 @@
+.page{
+    margin: 0px 50px;
+}
+
+.content{
+    margin-top: 1px;
+    
+    height: 85px;
+    width: 1600px;
+    font-size: 14px;
+    
+ 
+}
+.navbar{
+    text-align: center;
+    background-color: #EEEEEE;
+    padding: 8px;
+    
+}
+.aLinkOrtalama{
+    text-align: center;
+   padding-top: 5px;
+    /* line-height: 50px;  -> satırlar arasında boşluk */
+
+}
+
+.kutuBosluk{
+    margin: 1px 1px 0px ;
+}
+.kutu1{
+    background-color: #7EE5DA;
+    height: 75px;
+    width: 477px;
+    float: left;
+
+
+}
+.kutu2{
+    background-color: #70CCC2;
+    height: 75px;
+    width:477px;
+    float:left
+}
+.kutu3{
+    background-color: #62B3AA;
+    height: 75px;
+    width:477px;
+    float: left;
+    font-size: 13px;
+}
